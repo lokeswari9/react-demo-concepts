@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`when pure component is given should render 1`] = `
+<div
+  className="purecomp"
+>
+  <div>
+    5
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    click
+  </button>
+</div>
+`;
+
+exports[`when pure component is given should render 2`] = `
+<div
+  className="purecomp"
+>
+  <div>
+    21
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    click
+  </button>
+</div>
+`;
